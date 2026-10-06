@@ -1,0 +1,39 @@
+{
+  "uzytkownicy": [
+    {
+      "id": 1,
+      "imie": "Jan",
+      "nazwisko": "Kowalski",
+      "mail": "jan.kowalski@example.com",
+      "rola": "admin"
+    },
+    {
+      "id": 2,
+      "imie": "Anna",
+      "nazwisko": "Nowak",
+      "mail": "anna.nowak@example.com",
+      "rola": "user"
+    },
+    {
+      "id": 3,
+      "imie": "Piotr",
+      "nazwisko": "Wiśniewski",
+      "mail": "piotr.wisniewski@example.com",
+      "rola": "user"
+    },
+    {
+      "id": 4,
+      "imie": "Katarzyna",
+      "nazwisko": "Lewandowska",
+      "mail": "katarzyna.lewandowska@example.com",
+      "rola": "moderator"
+    },
+    {
+      "id": 5,
+      "imie": "Michał",
+      "nazwisko": "Kamiński",
+      "mail": "michal.kaminski@example.com",
+      "rola": "user"
+    }
+  ]
+}
